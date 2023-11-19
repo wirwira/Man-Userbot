@@ -65,7 +65,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 </details>
 
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SendiAp/Rose-Prem "><img src="https://www.herokucdn.com/deploy/button.svg"></a>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/wirwira/Rose-Prem "><img src="https://www.herokucdn.com/deploy/button.svg"></a>
 
 ## Updates & Support
 
